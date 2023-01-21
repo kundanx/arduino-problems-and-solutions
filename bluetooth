@@ -1,0 +1,2 @@
+# IDE freezes at uploading while uploading to bluetooth? 
+> try disconnecting rx and tx pin(i.e 1 and 0) from the bluetooth module.
